@@ -3,3 +3,4 @@ b = int (input () )
 c = int (input () )
 m = a+b+c
 print (m)
+print (m)
